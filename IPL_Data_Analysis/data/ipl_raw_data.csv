@@ -1,0 +1,221 @@
+player_name,team,role,batting_style,bowling_style,nationality,age,base_price,sold_price,matches_played,batting_strike_rate,batting_average,wickets,economy_rate,is_international,season
+Virat Kohli,RR,Batsman,Right-hand bat,None,India,36,4000000,8897491,200,153.69,20.87,75,7.18,0,2022
+Rohit Sharma,PBKS,Bowler,Left-hand bat,Right-arm fast,India,36,3000000,4935479,133,131.48,45.86,116,6.72,0,2022
+KL Rahul,GT,Wicketkeeper,Left-hand bat,None,India,31,5000000,8199031,196,100.98,40.97,80,6.03,0,2021
+Shubman Gill,CSK,Bowler,Left-hand bat,None,India,29,10000000,128812558,127,116.98,24.28,60,7.44,0,2022
+Suryakumar Yadav,SRH,Bowler,Right-hand bat,Right-arm spin,India,23,5000000,17162615,150,176.36,54.09,128,6.35,0,2022
+Rishabh Pant,PBKS,Bowler,Left-hand bat,Left-arm fast,India,28,7500000,17452932,20,114.43,43.68,15,8.93,0,2021
+Hardik Pandya,RCB,Allrounder,Left-hand bat,Right-arm fast,India,22,2000000,29273836,164,120.81,20.24,54,6.17,0,2023
+Ravindra Jadeja,DC,Wicketkeeper,Left-hand bat,None,India,19,4000000,48677157,140,164.34,52.89,113,9.19,0,2023
+Shreyas Iyer,SRH,Allrounder,Right-hand bat,Right-arm fast,India,40,3000000,3873566,156,141.19,46.12,13,9.43,0,2022
+Ishan Kishan,RR,Bowler,Left-hand bat,Right-arm fast,India,34,2000000,35348756,168,128.04,34.26,72,8.64,0,2022
+Sanju Samson,RCB,Batsman,Left-hand bat,None,India,29,2000000,16367570,62,169.83,20.15,37,9.18,0,2022
+Yuzvendra Chahal,SRH,Batsman,Right-hand bat,None,India,40,2000000,21577153,1,158.24,26.41,76,7.63,0,2023
+Jasprit Bumrah,LSG,Allrounder,Right-hand bat,None,India,38,2000000,21300682,150,151.08,31.65,11,7.73,0,2021
+Mohammed Shami,MI,Batsman,Right-hand bat,None,India,40,4000000,78455214,23,139.7,22.92,36,6.74,0,2023
+Prithvi Shaw,MI,Bowler,Left-hand bat,Left-arm fast,India,20,5000000,93176245,24,179.48,40.01,19,6.26,0,2022
+Mayank Agarwal,PBKS,Wicketkeeper,Right-hand bat,None,India,30,10000000,165968813,159,168.25,50.89,101,8.95,0,2021
+Deepak Chahar,MI,Wicketkeeper,Left-hand bat,None,India,20,10000000,45512727,174,129.86,42.8,149,6.34,0,2023
+Shardul Thakur,MI,Allrounder,Right-hand bat,Right-arm fast,India,29,7500000,35737505,108,114.49,20.54,117,7.53,0,2022
+Washington Sundar,LSG,Wicketkeeper,Left-hand bat,None,India,24,2000000,27954249,39,138.45,38.01,76,7.38,0,2022
+Bhuvneshwar Kumar,KKR,Wicketkeeper,Right-hand bat,None,India,22,10000000,161435193,66,104.53,38.61,49,9.87,0,2022
+Arshdeep Singh,DC,Wicketkeeper,Right-hand bat,None,India,33,4000000,53352529,165,178.68,43.74,91,9.64,0,2023
+Tilak Varma,PBKS,Batsman,Right-hand bat,None,India,25,7500000,28148738,76,143.96,36.42,34,6.28,0,2022
+Ruturaj Gaikwad,MI,Bowler,Left-hand bat,Right-arm spin,India,26,7500000,89454174,90,119.72,25.19,76,9.96,0,2021
+Rahul Tripathi,RCB,Allrounder,Right-hand bat,Right-arm fast,India,22,3000000,21645165,173,135.9,37.59,98,8.95,0,2023
+Nitish Rana,PBKS,Allrounder,Right-hand bat,Right-arm spin,India,26,7500000,106872552,139,134.4,23.62,93,8.31,0,2023
+Varun Chakravarthy,RCB,Wicketkeeper,Left-hand bat,None,India,28,7500000,84023336,106,154.96,26.2,111,9.79,0,2021
+Kuldeep Yadav,CSK,Wicketkeeper,Right-hand bat,None,India,31,7500000,103602812,99,110.74,46.4,2,9.53,0,2022
+Axar Patel,RCB,Wicketkeeper,Left-hand bat,None,India,38,4000000,37111826,44,134.51,36.42,65,9.0,0,2023
+Harshal Patel,CSK,Batsman,Left-hand bat,None,India,21,7500000,111153686,154,108.73,53.42,49,7.68,0,2021
+Umran Malik,RCB,Batsman,Right-hand bat,None,India,33,3000000,44086199,141,123.0,41.93,128,7.05,0,2022
+Devdutt Padikkal,RCB,Wicketkeeper,Left-hand bat,None,India,36,5000000,86000883,145,133.72,41.4,36,7.24,0,2023
+Ravi Bishnoi,LSG,Wicketkeeper,Right-hand bat,None,India,28,10000000,149791077,112,146.85,47.54,140,9.62,0,2021
+Sai Sudharsan,RCB,Batsman,Left-hand bat,None,India,35,2000000,35191318,192,125.22,54.14,90,7.27,0,2023
+T Natarajan,DC,Bowler,Right-hand bat,None,India,26,3000000,27743333,142,156.6,48.11,45,7.2,0,2022
+Venkatesh Iyer,GT,Allrounder,Right-hand bat,None,India,28,5000000,97584965,195,154.54,43.36,38,9.14,0,2023
+Sarfaraz Khan,GT,Wicketkeeper,Left-hand bat,None,India,26,4000000,64532093,198,156.85,23.1,2,8.17,0,2021
+Abhishek Sharma,KKR,Allrounder,Left-hand bat,Right-arm spin,India,32,10000000,78615498,49,146.85,48.24,84,8.73,0,2023
+Shivam Dube,RCB,Allrounder,Left-hand bat,Right-arm spin,India,22,3000000,7497281,131,135.38,35.47,55,9.66,0,2023
+Manish Pandey,RCB,Batsman,Right-hand bat,None,India,38,4000000,45884863,100,160.1,30.91,117,6.72,0,2022
+Avesh Khan,SRH,Bowler,Left-hand bat,None,India,37,3000000,30895248,35,149.56,21.96,63,9.77,0,2023
+Shubham Dubey,DC,Batsman,Right-hand bat,None,India,35,5000000,21118785,13,129.03,44.07,30,6.25,0,2021
+Shashank Singh,SRH,Wicketkeeper,Left-hand bat,None,India,32,7500000,8332616,161,136.55,26.58,60,7.88,0,2021
+Ashutosh Sharma,GT,Allrounder,Right-hand bat,Right-arm spin,India,20,3000000,9323935,158,164.08,52.94,0,9.59,0,2022
+Riyan Parag,SRH,Bowler,Right-hand bat,Left-arm fast,India,22,5000000,84096775,168,145.88,34.59,49,8.56,0,2022
+Yash Dayal,RR,Bowler,Left-hand bat,Right-arm fast,India,25,4000000,64604203,45,146.31,39.04,117,7.04,0,2021
+Yash Thakur,SRH,Batsman,Right-hand bat,None,India,28,3000000,6986565,6,136.33,31.27,83,9.18,0,2023
+David Warner,CSK,Allrounder,Right-hand bat,Left-arm fast,New Zealand,33,2000000,10348991,19,156.75,23.88,47,9.7,1,2022
+Kane Williamson,RR,Batsman,Right-hand bat,None,Afghanistan,23,4000000,30059715,158,116.36,52.72,116,6.96,1,2021
+Joe Root,GT,Allrounder,Right-hand bat,None,Australia,24,7500000,64771630,93,165.66,51.07,89,8.67,1,2023
+Ben Stokes,LSG,Wicketkeeper,Left-hand bat,None,West Indies,30,4000000,44152265,103,102.73,50.93,107,7.08,1,2021
+Jos Buttler,MI,Batsman,Left-hand bat,None,Australia,29,2000000,34950406,82,102.94,47.44,38,8.33,1,2021
+Jonny Bairstow,RR,Wicketkeeper,Right-hand bat,None,England,40,7500000,114622884,69,101.24,22.3,60,8.83,1,2021
+Liam Livingstone,RR,Bowler,Right-hand bat,None,New Zealand,21,10000000,112893503,198,133.93,47.12,37,6.47,1,2021
+Moeen Ali,KKR,Batsman,Left-hand bat,None,Afghanistan,18,2000000,4689919,79,160.99,51.72,49,6.4,1,2021
+Sam Curran,DC,Batsman,Right-hand bat,None,New Zealand,30,7500000,15768877,42,106.0,40.02,27,9.16,1,2023
+Pat Cummins,CSK,Batsman,Left-hand bat,None,Afghanistan,39,3000000,35247533,4,114.61,51.58,21,7.43,1,2021
+Mitchell Starc,DC,Wicketkeeper,Left-hand bat,None,New Zealand,19,2000000,8038317,36,114.02,54.94,89,9.86,1,2023
+Travis Head,KKR,Bowler,Right-hand bat,Left-arm fast,South Africa,18,4000000,45685411,154,105.07,49.88,90,6.57,1,2023
+Marcus Stoinis,KKR,Wicketkeeper,Right-hand bat,None,Afghanistan,35,10000000,10472485,35,104.32,28.41,146,6.66,1,2021
+Glenn Maxwell,RCB,Batsman,Left-hand bat,None,Afghanistan,37,5000000,39850357,152,150.5,22.46,128,7.28,1,2023
+Faf du Plessis,MI,Allrounder,Left-hand bat,Right-arm fast,West Indies,36,7500000,67086717,49,148.27,46.62,40,8.2,1,2022
+Quinton de Kock,SRH,Bowler,Right-hand bat,Left-arm fast,South Africa,23,4000000,58400737,41,154.32,52.11,50,7.46,1,2022
+Rashid Khan,DC,Allrounder,Right-hand bat,Left-arm fast,Sri Lanka,32,10000000,138306402,34,142.44,42.2,103,8.21,1,2022
+Rahmanullah Gurbaz,GT,Allrounder,Left-hand bat,Left-arm fast,Afghanistan,24,10000000,194121560,153,112.73,27.05,98,6.28,1,2023
+Wanindu Hasaranga,RR,Bowler,Left-hand bat,Right-arm spin,New Zealand,27,3000000,47049753,103,132.55,52.56,38,8.17,1,2022
+Maheesh Theekshana,GT,Wicketkeeper,Right-hand bat,None,New Zealand,37,3000000,11506559,37,143.84,49.06,109,7.2,1,2023
+Kagiso Rabada,KKR,Allrounder,Right-hand bat,Left-arm spin,England,27,5000000,95679369,83,106.44,27.48,148,8.35,1,2021
+Heinrich Klaasen,SRH,Batsman,Right-hand bat,None,England,35,10000000,32701916,38,139.1,25.15,63,8.41,1,2021
+Trent Boult,LSG,Bowler,Right-hand bat,Left-arm spin,Australia,28,3000000,18796481,106,128.67,50.65,134,7.52,1,2021
+Tim Southee,CSK,Allrounder,Right-hand bat,Left-arm spin,England,28,5000000,74279852,46,125.49,41.24,52,6.41,1,2022
+Lockie Ferguson,SRH,Allrounder,Right-hand bat,Left-arm spin,Australia,34,3000000,59282379,162,173.12,30.61,67,9.43,1,2023
+Devon Conway,LSG,Allrounder,Right-hand bat,Left-arm fast,New Zealand,23,5000000,42171304,100,111.6,54.92,99,9.98,1,2023
+Nicholas Pooran,PBKS,Bowler,Right-hand bat,Right-arm fast,Australia,18,2000000,29776038,47,160.22,44.22,96,8.92,1,2023
+Andre Russell,LSG,Wicketkeeper,Right-hand bat,None,Australia,18,2000000,17227001,138,151.58,41.25,136,8.98,1,2023
+Sunil Narine,DC,Batsman,Right-hand bat,None,West Indies,35,4000000,71411689,79,172.87,27.45,141,9.86,1,2021
+Shimron Hetmyer,RCB,Batsman,Right-hand bat,None,West Indies,35,3000000,46461899,182,110.64,26.43,75,8.98,1,2023
+Jason Holder,KKR,Batsman,Left-hand bat,None,Afghanistan,20,5000000,23207783,38,157.18,45.81,79,7.05,1,2023
+Alzarri Joseph,KKR,Wicketkeeper,Left-hand bat,None,Afghanistan,32,5000000,85975019,130,123.24,21.34,59,8.47,1,2022
+Mitchell Marsh,DC,Wicketkeeper,Left-hand bat,None,Australia,24,7500000,44620295,74,136.01,39.39,56,9.31,1,2022
+Adam Zampa,GT,Batsman,Right-hand bat,None,South Africa,30,2000000,9110904,13,162.99,52.82,41,6.99,1,2021
+Matt Henry,KKR,Allrounder,Left-hand bat,Left-arm fast,Australia,37,10000000,109982192,175,149.7,34.27,108,7.16,1,2021
+Daryl Mitchell,CSK,Allrounder,Right-hand bat,Left-arm fast,India,19,7500000,149204256,44,121.14,39.93,54,7.62,0,2021
+Rilee Rossouw,SRH,Wicketkeeper,Left-hand bat,None,India,33,3000000,45055310,76,165.69,33.65,17,6.29,0,2022
+Alex Hales,SRH,Batsman,Right-hand bat,None,Sri Lanka,18,2000000,36005205,68,175.72,49.95,125,9.85,1,2023
+Chris Jordan,PBKS,Batsman,Left-hand bat,None,India,23,5000000,90078358,187,120.09,33.76,13,6.54,0,2023
+Mark Wood,GT,Batsman,Left-hand bat,None,West Indies,36,5000000,94193578,101,105.22,21.01,91,9.08,1,2022
+Jofra Archer,KKR,Allrounder,Left-hand bat,Left-arm fast,West Indies,19,5000000,39571064,35,127.29,22.48,33,7.28,1,2023
+Shaheen Afridi,RCB,Batsman,Left-hand bat,None,England,30,10000000,89300318,145,114.02,34.8,47,8.5,1,2022
+Haris Rauf,GT,Allrounder,Right-hand bat,Right-arm fast,Australia,33,2000000,20122435,106,166.3,53.17,52,9.96,1,2023
+Babar Azam,PBKS,Wicketkeeper,Right-hand bat,None,India,35,2000000,27506360,60,163.06,36.79,35,7.56,0,2022
+Mohammad Rizwan,LSG,Bowler,Left-hand bat,Right-arm fast,Australia,40,7500000,73436029,110,116.37,35.14,91,6.93,1,2023
+Devdutt Padikkal II,DC,Wicketkeeper,Left-hand bat,None,India,29,5000000,88289433,56,113.62,23.64,48,8.18,0,2022
+Venkatesh Iyer II,RCB,Wicketkeeper,Right-hand bat,None,India,29,10000000,63370117,21,118.73,45.01,104,8.69,0,2023
+Kagiso Rabada II,LSG,Batsman,Right-hand bat,None,India,40,10000000,85446901,89,146.06,21.5,63,7.38,0,2021
+Faf du Plessis II,MI,Wicketkeeper,Left-hand bat,None,India,28,10000000,94007369,194,160.05,45.92,149,8.12,0,2022
+Mohammed Shami Jr.,GT,Allrounder,Right-hand bat,None,India,32,2000000,21456491,114,150.29,23.97,0,6.92,0,2022
+Jofra Archer Jr.,RCB,Wicketkeeper,Left-hand bat,None,India,36,2000000,15441006,194,147.43,41.78,63,9.23,0,2021
+Kuldeep Yadav II,RR,Batsman,Right-hand bat,None,India,32,2000000,28087366,71,174.52,31.26,93,6.7,0,2022
+Quinton de Kock II,KKR,Allrounder,Right-hand bat,Left-arm spin,India,24,3000000,35437149,30,105.54,51.15,6,8.15,0,2022
+Nitish Rana Jr.,KKR,Allrounder,Right-hand bat,Left-arm spin,India,30,5000000,57765381,145,102.16,30.8,10,8.97,0,2022
+Faf du Plessis Jr.,DC,Bowler,Right-hand bat,Left-arm spin,India,27,2000000,11549749,131,130.72,39.85,83,7.5,0,2022
+Virat Kohli II,RCB,Bowler,Right-hand bat,Right-arm fast,Australia,34,3000000,24398729,65,178.05,35.6,50,6.26,1,2023
+Nicholas Pooran II,PBKS,Allrounder,Right-hand bat,Left-arm spin,India,30,2000000,33303580,74,168.06,33.35,71,8.24,0,2022
+Avesh Khan Jr.,KKR,Batsman,Left-hand bat,None,India,18,10000000,19713318,122,152.52,27.55,108,9.19,0,2023
+Devdutt Padikkal II,PBKS,Wicketkeeper,Right-hand bat,None,England,21,5000000,7511737,125,117.55,30.43,13,7.65,1,2021
+Yuzvendra Chahal Jr.,RCB,Batsman,Right-hand bat,None,India,35,4000000,74079340,41,139.85,37.5,22,8.96,0,2023
+Shaheen Afridi Jr.,LSG,Bowler,Left-hand bat,Right-arm fast,India,21,5000000,63927997,120,158.71,33.3,52,9.96,0,2021
+Sai Sudharsan Jr.,CSK,Batsman,Right-hand bat,None,India,22,3000000,30205719,145,169.32,22.29,116,6.89,0,2022
+Rahmanullah Gurbaz II,GT,Batsman,Left-hand bat,None,New Zealand,40,2000000,21656643,192,150.57,45.62,71,8.0,1,2022
+Shardul Thakur Jr.,MI,Wicketkeeper,Right-hand bat,None,India,24,10000000,18311831,164,136.36,23.24,49,6.67,0,2021
+Yash Dayal Jr.,MI,Wicketkeeper,Left-hand bat,None,India,34,10000000,42240194,138,176.43,34.7,103,8.4,0,2022
+Shaheen Afridi Jr.,DC,Bowler,Left-hand bat,Right-arm fast,India,27,3000000,51381345,170,179.27,50.01,16,6.86,0,2021
+Sam Curran Jr.,RCB,Batsman,Right-hand bat,None,India,23,7500000,33501620,44,162.74,53.44,75,7.93,0,2021
+Rashid Khan II,RCB,Batsman,Left-hand bat,None,India,21,7500000,24111894,155,149.13,33.7,92,8.4,0,2022
+Ishan Kishan Jr.,MI,Bowler,Right-hand bat,Left-arm fast,India,34,4000000,32976653,131,123.82,29.45,44,9.6,0,2023
+Jofra Archer Jr.,CSK,Batsman,Left-hand bat,None,India,40,7500000,102620544,71,153.42,27.39,56,6.14,0,2021
+Tilak Varma II,RCB,Bowler,Left-hand bat,Left-arm spin,India,30,5000000,95357511,154,107.82,34.01,23,8.34,0,2021
+Trent Boult II,KKR,Allrounder,Left-hand bat,Right-arm spin,India,24,7500000,74821311,3,149.89,23.36,115,7.67,0,2023
+Joe Root Jr.,PBKS,Batsman,Left-hand bat,None,India,38,4000000,78830515,88,109.54,29.35,26,7.98,0,2022
+Varun Chakravarthy II,GT,Wicketkeeper,Left-hand bat,None,England,28,7500000,145850773,21,121.47,31.33,147,8.16,1,2023
+Avesh Khan Jr.,RR,Batsman,Left-hand bat,None,India,22,2000000,6012223,24,126.84,40.81,16,6.56,0,2023
+Mark Wood II,LSG,Bowler,Right-hand bat,Right-arm fast,India,29,2000000,26188828,84,125.9,51.1,131,8.91,0,2023
+Andre Russell II,SRH,Bowler,Right-hand bat,None,India,24,10000000,23096929,51,173.45,42.25,78,7.32,0,2023
+Ashutosh Sharma II,LSG,Bowler,Right-hand bat,Left-arm fast,Sri Lanka,24,4000000,32538171,2,128.48,54.88,123,9.19,1,2023
+Jonny Bairstow Jr.,RCB,Batsman,Right-hand bat,None,India,36,3000000,19847127,50,118.94,27.12,12,6.54,0,2021
+Alzarri Joseph Jr.,MI,Bowler,Right-hand bat,Right-arm spin,India,19,2000000,13023079,147,135.05,45.55,41,8.56,0,2022
+Mohammed Shami II,CSK,Allrounder,Left-hand bat,Left-arm fast,India,33,2000000,11011144,162,122.85,33.51,137,9.62,0,2023
+Ishan Kishan II,RCB,Bowler,Left-hand bat,None,India,37,7500000,89576259,1,158.47,31.84,148,9.9,0,2021
+Mitchell Starc Jr.,PBKS,Allrounder,Right-hand bat,Right-arm spin,India,19,5000000,77222677,173,141.99,52.23,55,7.19,0,2021
+Joe Root II,DC,Allrounder,Right-hand bat,Left-arm fast,India,30,10000000,62980920,117,147.37,54.76,70,7.37,0,2021
+Travis Head Jr.,RCB,Batsman,Left-hand bat,None,India,30,2000000,4921665,5,120.26,41.1,9,9.68,0,2022
+Tim Southee II,RCB,Wicketkeeper,Right-hand bat,None,India,35,4000000,71507383,128,177.77,48.18,129,8.36,0,2022
+Rahul Tripathi Jr.,KKR,Allrounder,Left-hand bat,Right-arm spin,India,35,4000000,64300173,150,167.58,21.97,132,7.98,0,2021
+Ravindra Jadeja II,GT,Wicketkeeper,Right-hand bat,None,India,38,10000000,116195262,66,144.65,35.28,124,9.62,0,2021
+Shivam Dube II,SRH,Bowler,Right-hand bat,Left-arm spin,India,18,7500000,138237152,90,137.75,50.13,63,7.32,0,2023
+Shubham Dubey II,RR,Batsman,Right-hand bat,None,India,39,5000000,32271521,16,171.11,53.58,52,7.56,0,2021
+Axar Patel Jr.,SRH,Allrounder,Right-hand bat,Left-arm fast,India,29,4000000,19911211,197,146.47,22.19,40,7.41,0,2021
+Rahmanullah Gurbaz Jr.,RCB,Allrounder,Right-hand bat,Left-arm fast,India,38,2000000,5999038,57,166.56,25.04,122,9.75,0,2023
+Yash Thakur II,MI,Allrounder,Right-hand bat,Right-arm spin,India,29,10000000,127714006,18,110.15,41.05,40,6.22,0,2022
+Devon Conway II,MI,Allrounder,Left-hand bat,Left-arm fast,India,36,5000000,35449943,53,116.42,52.49,27,8.19,0,2021
+Umran Malik Jr.,SRH,Bowler,Right-hand bat,Right-arm spin,India,26,10000000,14144078,60,120.47,30.18,90,8.12,0,2023
+Jos Buttler II,PBKS,Batsman,Right-hand bat,None,India,33,4000000,46021837,151,114.86,39.69,114,8.64,0,2021
+Jos Buttler II,GT,Bowler,Left-hand bat,Left-arm spin,India,22,10000000,54473538,67,109.03,48.03,49,7.83,0,2021
+Lockie Ferguson II,SRH,Batsman,Left-hand bat,None,Sri Lanka,20,4000000,12545197,87,102.99,22.08,64,6.25,1,2022
+Shardul Thakur II,RR,Wicketkeeper,Left-hand bat,None,India,34,10000000,74729302,33,116.24,52.63,121,7.52,0,2021
+Rilee Rossouw Jr.,MI,Batsman,Left-hand bat,None,India,39,5000000,40759695,49,151.93,35.61,105,6.03,0,2023
+Andre Russell Jr.,RCB,Bowler,Left-hand bat,Left-arm spin,India,37,2000000,6157796,66,148.14,21.73,35,8.41,0,2023
+Shreyas Iyer II,MI,Batsman,Right-hand bat,None,India,37,3000000,11213727,128,145.13,38.63,27,7.61,0,2021
+Sam Curran II,SRH,Bowler,Left-hand bat,Right-arm fast,India,40,4000000,74487204,37,116.45,33.42,52,7.38,0,2022
+Rilee Rossouw II,GT,Batsman,Left-hand bat,None,India,33,5000000,92749024,179,176.42,44.22,105,8.28,0,2022
+Rashid Khan II,RR,Wicketkeeper,Left-hand bat,None,India,37,10000000,42457812,82,138.25,40.07,52,8.06,0,2023
+Nitish Rana Jr.,PBKS,Wicketkeeper,Right-hand bat,None,India,18,5000000,49451825,58,101.09,21.88,50,8.65,0,2023
+Trent Boult Jr.,DC,Batsman,Left-hand bat,None,India,30,7500000,54320794,131,137.95,45.24,140,9.14,0,2021
+Alzarri Joseph Jr.,PBKS,Batsman,Right-hand bat,None,India,22,4000000,21424321,151,146.61,47.05,0,8.05,0,2023
+Glenn Maxwell Jr.,LSG,Wicketkeeper,Left-hand bat,None,India,39,7500000,142698397,148,172.58,23.69,106,9.56,0,2021
+Heinrich Klaasen II,RCB,Allrounder,Left-hand bat,Left-arm spin,South Africa,32,7500000,103791651,193,119.9,46.42,123,9.1,1,2022
+Yash Thakur II,CSK,Batsman,Left-hand bat,None,India,29,3000000,7151223,177,113.86,25.5,52,9.59,0,2021
+Daryl Mitchell Jr.,RCB,Batsman,Left-hand bat,None,India,36,3000000,50952529,144,147.13,38.19,44,7.16,0,2021
+Umran Malik II,DC,Allrounder,Right-hand bat,Left-arm spin,India,33,10000000,151668262,55,140.99,23.58,19,7.2,0,2023
+Devon Conway Jr.,LSG,Allrounder,Right-hand bat,Left-arm spin,India,37,5000000,39432119,24,105.84,33.58,23,8.16,0,2022
+Maheesh Theekshana Jr.,DC,Allrounder,Left-hand bat,Right-arm spin,India,19,5000000,18884796,78,141.12,31.34,86,6.98,0,2022
+Shardul Thakur II,LSG,Batsman,Left-hand bat,None,India,37,2000000,16387264,156,164.41,53.23,42,9.93,0,2022
+Lockie Ferguson Jr.,DC,Batsman,Left-hand bat,None,India,38,10000000,99063588,92,108.69,38.97,123,7.33,0,2022
+Pat Cummins II,DC,Batsman,Right-hand bat,None,Afghanistan,26,7500000,19549815,34,108.48,49.83,121,6.32,1,2022
+Sanju Samson Jr.,CSK,Allrounder,Left-hand bat,Left-arm spin,India,23,5000000,77366950,173,101.96,36.31,110,7.58,0,2021
+Hardik Pandya II,PBKS,Wicketkeeper,Right-hand bat,None,England,26,7500000,64147329,192,173.55,47.63,67,6.02,1,2023
+Babar Azam II,LSG,Bowler,Left-hand bat,Right-arm fast,New Zealand,40,2000000,29450975,185,104.53,37.85,108,9.06,1,2022
+Glenn Maxwell II,LSG,Bowler,Right-hand bat,Left-arm spin,India,35,10000000,146347728,74,128.32,37.6,146,6.78,0,2021
+Mohammad Rizwan II,SRH,Allrounder,Right-hand bat,Right-arm fast,India,21,10000000,142486229,22,126.42,26.37,146,7.42,0,2022
+Glenn Maxwell Jr.,KKR,Batsman,Right-hand bat,None,India,19,7500000,148120908,122,127.95,26.27,14,9.61,0,2023
+Faf du Plessis II,DC,Bowler,Left-hand bat,None,India,29,5000000,96168857,30,119.86,40.38,79,7.16,0,2022
+Haris Rauf II,SRH,Batsman,Left-hand bat,None,India,18,5000000,68377604,95,165.42,43.28,84,9.95,0,2021
+Mayank Agarwal II,RCB,Wicketkeeper,Left-hand bat,None,India,20,10000000,138484962,180,111.62,27.32,13,6.16,0,2021
+Sanju Samson II,LSG,Wicketkeeper,Right-hand bat,None,India,21,4000000,67426006,1,133.08,23.05,82,7.67,0,2022
+Ashutosh Sharma Jr.,LSG,Wicketkeeper,Left-hand bat,None,India,28,5000000,96476497,40,162.91,35.78,56,9.15,0,2022
+Andre Russell Jr.,RR,Allrounder,Right-hand bat,None,India,37,10000000,190189812,135,111.39,24.62,8,8.68,0,2021
+Devon Conway Jr.,RCB,Bowler,Left-hand bat,Right-arm fast,India,23,3000000,54442471,6,144.7,27.15,111,6.14,0,2021
+Sam Curran Jr.,LSG,Bowler,Left-hand bat,None,India,27,4000000,18275626,96,132.82,36.05,52,7.12,0,2023
+KL Rahul II,PBKS,Allrounder,Right-hand bat,Right-arm spin,England,31,5000000,68999267,187,123.01,48.93,8,8.0,1,2022
+Shivam Dube II,SRH,Allrounder,Right-hand bat,Right-arm spin,Sri Lanka,25,4000000,66488100,170,128.09,43.43,63,6.04,1,2023
+Glenn Maxwell Jr.,DC,Allrounder,Left-hand bat,Left-arm fast,India,19,4000000,76784636,158,123.99,23.15,133,9.01,0,2022
+Shubham Dubey Jr.,SRH,Wicketkeeper,Right-hand bat,None,India,29,5000000,7749096,103,139.35,45.45,61,7.21,0,2023
+Sunil Narine Jr.,MI,Allrounder,Right-hand bat,Right-arm fast,India,34,7500000,85325321,0,160.36,29.74,66,9.56,0,2023
+Alzarri Joseph Jr.,GT,Wicketkeeper,Right-hand bat,None,India,18,10000000,171068248,10,170.82,52.49,96,7.9,0,2021
+Sanju Samson Jr.,PBKS,Wicketkeeper,Left-hand bat,None,India,35,4000000,78769996,163,107.49,29.69,98,9.78,0,2021
+Sai Sudharsan II,LSG,Bowler,Left-hand bat,Right-arm fast,India,31,4000000,7372554,157,152.08,48.59,132,9.97,0,2022
+Joe Root Jr.,RR,Wicketkeeper,Left-hand bat,None,India,18,7500000,99936304,156,109.25,44.77,108,8.99,0,2021
+Devdutt Padikkal Jr.,GT,Bowler,Left-hand bat,Left-arm fast,India,18,3000000,33416978,158,104.15,43.95,106,9.16,0,2021
+Rahul Tripathi II,MI,Batsman,Left-hand bat,None,Afghanistan,38,7500000,24736309,128,164.38,43.6,17,6.71,1,2023
+Umran Malik Jr.,LSG,Batsman,Right-hand bat,None,India,39,10000000,192105460,180,102.68,23.62,41,8.49,0,2022
+Glenn Maxwell II,DC,Wicketkeeper,Right-hand bat,None,India,37,5000000,45328040,6,119.29,23.21,29,7.41,0,2021
+Faf du Plessis Jr.,RCB,Batsman,Left-hand bat,None,India,34,7500000,147472233,90,108.43,22.86,48,6.77,0,2023
+Devon Conway Jr.,CSK,Batsman,Left-hand bat,None,India,24,5000000,40727156,42,155.87,36.66,40,7.0,0,2023
+Mark Wood Jr.,CSK,Wicketkeeper,Left-hand bat,None,India,35,3000000,41914743,23,177.9,24.44,57,6.12,0,2022
+Jasprit Bumrah Jr.,GT,Wicketkeeper,Right-hand bat,None,India,21,4000000,25777882,85,130.84,38.75,25,7.61,0,2022
+Prithvi Shaw Jr.,SRH,Batsman,Right-hand bat,None,India,40,4000000,75637973,5,146.88,43.03,14,7.62,0,2021
+Mohammad Rizwan Jr.,RCB,Batsman,Right-hand bat,None,India,28,2000000,31379073,79,106.29,31.94,105,6.82,0,2022
+Shreyas Iyer Jr.,PBKS,Wicketkeeper,Right-hand bat,None,India,24,2000000,8671095,111,150.94,20.55,70,8.28,0,2023
+Axar Patel II,PBKS,Batsman,Left-hand bat,None,India,18,7500000,8795458,184,100.6,46.29,143,9.6,0,2023
+Devdutt Padikkal Jr.,GT,Allrounder,Right-hand bat,Right-arm spin,India,18,7500000,75928736,99,133.96,48.51,135,9.36,0,2023
+Abhishek Sharma II,RR,Wicketkeeper,Left-hand bat,None,India,18,7500000,28227767,53,146.77,42.26,4,6.96,0,2022
+Harshal Patel II,LSG,Wicketkeeper,Left-hand bat,None,India,22,2000000,30479087,143,120.49,46.13,150,9.38,0,2021
+Sunil Narine Jr.,RR,Batsman,Left-hand bat,None,India,23,3000000,19366832,20,132.37,40.83,46,8.72,0,2022
+Glenn Maxwell Jr.,MI,Allrounder,Left-hand bat,None,India,33,5000000,16049038,97,137.4,35.2,112,8.24,0,2023
+Daryl Mitchell II,PBKS,Batsman,Right-hand bat,None,Afghanistan,40,4000000,63697010,58,130.22,43.99,111,8.3,1,2023
+Bhuvneshwar Kumar II,RCB,Bowler,Right-hand bat,Right-arm spin,West Indies,25,5000000,27799664,50,153.16,32.95,70,7.61,1,2023
+Rahul Tripathi II,KKR,Batsman,Left-hand bat,None,India,33,5000000,47048475,179,145.47,37.52,87,6.82,0,2023
+Sai Sudharsan Jr.,KKR,Bowler,Right-hand bat,Right-arm spin,India,24,7500000,20548516,37,138.69,46.44,96,6.43,0,2022
+Rohit Sharma Jr.,KKR,Allrounder,Right-hand bat,Right-arm spin,India,23,10000000,47506335,142,130.61,38.01,115,9.87,0,2022
+Deepak Chahar II,KKR,Allrounder,Right-hand bat,Left-arm spin,Sri Lanka,20,3000000,31420417,87,148.95,53.71,63,7.23,1,2021
+Bhuvneshwar Kumar Jr.,CSK,Batsman,Left-hand bat,None,India,23,10000000,82280717,163,132.64,43.24,31,7.63,0,2022
+Moeen Ali Jr.,SRH,Wicketkeeper,Left-hand bat,None,India,39,10000000,19556266,88,123.69,45.57,47,9.89,0,2023
+Marcus Stoinis II,LSG,Bowler,Right-hand bat,Left-arm spin,South Africa,29,7500000,74938221,59,112.28,53.28,138,6.23,1,2021
+Harshal Patel II,RR,Batsman,Right-hand bat,None,South Africa,22,5000000,34939797,48,168.2,51.5,103,9.91,1,2023
+Rilee Rossouw II,GT,Bowler,Left-hand bat,Right-arm spin,India,34,4000000,59937066,91,111.93,34.12,146,9.6,0,2023
+Jofra Archer II,KKR,Bowler,Left-hand bat,Right-arm spin,India,31,5000000,76229470,63,114.93,40.29,88,7.96,0,2022
+Umran Malik II,KKR,Bowler,Right-hand bat,Right-arm spin,West Indies,27,5000000,8275859,44,120.54,38.19,75,9.08,1,2022
+Shivam Dube II,RR,Bowler,Left-hand bat,Left-arm spin,India,36,10000000,48469456,70,111.45,23.13,126,9.28,0,2022
+Jos Buttler Jr.,PBKS,Batsman,Right-hand bat,None,India,23,7500000,19311900,90,132.18,42.13,104,8.28,0,2022
+Tilak Varma Jr.,PBKS,Batsman,Right-hand bat,None,India,26,4000000,65653913,14,116.74,50.38,26,6.82,0,2021
