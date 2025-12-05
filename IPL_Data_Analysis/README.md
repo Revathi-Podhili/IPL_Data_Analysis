@@ -1,106 +1,126 @@
-# 🏏 IPL Data Analysis Using Pandas & PandasAI
+IPL Data Analysis Project
 
-This repository contains a complete mini–project on **IPL 2023 player and auction analysis**.
-It combines traditional **Pandas-based Exploratory Data Analysis (EDA)** with an AI-augmented
-workflow using **PandasAI** (as documented in the included PDF report).
+This project performs an in-depth analysis of the Indian Premier League (IPL) dataset using Python.
+It includes raw match data, cleaning steps, exploratory data analysis (EDA), and visual insights to understand team performance, player statistics, and match outcomes.
 
----
+The project is beginner-friendly and ideal for anyone learning Python, Pandas, data visualization, and real-world dataset handling.
 
-## 📂 Project Structure
 
-```text
-IPL_Data_Analysis_Using_PandasAI/
+
+IPL_Data_Analysis/
 ├── data/
-│   └── ipl_raw_data.csv                 # Raw IPL dataset
+│   └── ipl_raw_data.csv
 ├── notebooks/
-│   └── IPL_Data_Analysis.ipynb          # Jupyter notebook with code & EDA
+│   └── IPL_Data_Analysis.ipynb
 ├── reports/
-│   └── IPL-Data-Analysis-Using-Pandas-AI.pdf   # Project documentation / slides
+│   └── IPL-Data-Analysis.pdf
 ├── images/
-│   └── *.jpg                            # Exported graphs & charts
-└── README.md                            # Project documentation (this file)
-```
+│   └── all images
+└── README.md
+🎯 Objective of the Project
 
----
+The goal of this project is to:
 
-## 🎯 Objective
+Clean and prepare the IPL dataset
 
-- Perform data cleaning and exploratory analysis on IPL 2023 data  
-- Understand player performance, roles, strike rates, economy rates, and match statistics  
-- Demonstrate how **AI-powered tools like PandasAI** can simplify querying and visualisation  
-- Produce professional visual outputs and a summarized PDF report
+Analyze match results, player performance, and team metrics
 
----
+Visualize trends and insights
 
-## 📊 Included Visualizations
+Build a strong foundation in data analytics using a real sports dataset
 
-The `images/` folder contains plots exported from the notebook, such as:
+🔍 Key Steps Performed in the Notebook
+1️⃣ Data Loading
 
-- Top 10 wicket takers (horizontal bar chart)
-- Player role distribution (pie chart)
-- Matches played vs batting average (scatter / dot chart)
-- Economy rate distribution (box plot)
-- Top 10 players by batting average (bar chart)
-- Distribution of batting strike rate (histogram / KDE)
-- International vs domestic players (donut chart)
+Imported dataset using Pandas
 
-These plots are generated from the raw `ipl_raw_data.csv` file using the notebook.
+Checked dataset size, shape, and structure
 
----
+2️⃣ Data Cleaning
 
-## 🛠️ Tech Stack
+Handled missing values
 
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Matplotlib / Seaborn**
-- **PandasAI** (for natural-language powered analysis)
-- **Jupyter Notebook**
+Converted datatypes
 
----
+Removed duplicates
 
-## 🚀 How to Run
+Renamed confusing columns
 
-1. Clone or download this project:
-   ```bash
-   git clone <your-repo-url>
-   cd IPL_Data_Analysis_Using_PandasAI
-   ```
+3️⃣ Exploratory Data Analysis (EDA)
 
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn pandasai jupyter
-   ```
+Top run scorers
 
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook notebooks/IPL_Data_Analysis.ipynb
-   ```
+Highest wicket takers
 
-4. (Optional) Configure **PandasAI** by setting your OpenAI API key inside the notebook
-   or as an environment variable before running advanced AI-powered queries.
+Team win percentages
 
----
+Venue-wise match distribution
 
-## 📝 Report
+Toss decision analysis
 
-A polished presentation-style report is available at:
+Match result patterns
 
-- `reports/IPL-Data-Analysis-Using-Pandas-AI.pdf`
+4️⃣ Data Visualization
 
-It explains:
-- Why IPL auction and player data matters  
-- Advantages and limitations of PandasAI  
-- Player valuation insights and team spending patterns  
-- Market analysis of unsold players  
-- Key takeaways and strategic applications of AI-powered analytics
+Using Matplotlib/Seaborn, created graphs such as:
 
----
+Bar charts
 
-## 👤 Author
+Line plots
 
-**Narendra Bellamkonda**  
-MCA Student | Data Analysis & Python Enthusiast  
+Pie charts
 
-Feel free to fork this repository, experiment with new visuals,
-or extend the analysis with your own questions using PandasAI.
+Count plots
+
+Distribution plots
+
+📊 Insights from the Dataset
+
+Some typical findings (based on IPL data analysis):
+
+Certain stadiums favor batting or bowling
+
+Teams winning the toss do/don’t always win the match
+
+Top players show strong consistency across venues
+
+Run scoring patterns change based on overs and pitch conditions
+
+(Your notebook will generate detailed insights.)
+
+🛠️ Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
+🚀 How to Run This Project
+1. Clone the Repository
+git clone https://github.com/Revathi-Podhili/IPL-Analysis-Project.git
+cd IPL-Analysis-Project
+
+2. Install Required Libraries
+pip install pandas numpy matplotlib seaborn
+
+3. Run Jupyter Notebook
+jupyter notebook
+
+
+Open IPL_Project.ipynb.
+
+📌 Dataset
+
+This project uses the raw IPL dataset file:
+
+ipl_raw_data.csv
+📝 Author
+
+Revathi Podhili
+MCA Student | Python & Data Science Learner
